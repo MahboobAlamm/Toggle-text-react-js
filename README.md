@@ -1,2 +1,2 @@
-# Toggle-text-react-js
+# Table-by-passing-props
 Created with CodeSandbox
